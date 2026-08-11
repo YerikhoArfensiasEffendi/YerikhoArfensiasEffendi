@@ -50,9 +50,10 @@ Fuel    : Coffee + Music
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YerikhoArfensiasEffendi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7B9EF5&icon_color=7B9EF5&text_color=FFFFFF&cache_seconds=86400)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YerikhoArfensiasEffendi&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YerikhoArfensiasEffendi&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YerikhoArfensiasEffendi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B9EF5&text_color=FFFFFF&cache_seconds=86400)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YerikhoArfensiasEffendi&theme=tokyonight&utcOffset=7)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=YerikhoArfensiasEffendi&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B9EF5&ring=7B9EF5&fire=FF6B6B&currStreakLabel=7B9EF5)
 
