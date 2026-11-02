@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YerikhoArfensiasEffendi/YerikhoArfensiasEffendi/main/assets/header.svg" width="100%" alt="Yerikho Arfensias Effendi" />
+<img src="./assets/header.png" width="100%" alt="Yerikho Arfensias Effendi" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -136,8 +136,11 @@ Senior software engineer and systems architect specializing in high-throughput d
 ### Contribution Matrix
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YerikhoArfensiasEffendi/YerikhoArfensiasEffendi/output/github-snake.svg#gh-light-mode-only" width="100%" />
-  <img src="https://raw.githubusercontent.com/YerikhoArfensiasEffendi/YerikhoArfensiasEffendi/output/github-snake-dark.svg#gh-dark-mode-only" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YerikhoArfensiasEffendi/YerikhoArfensiasEffendi/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YerikhoArfensiasEffendi/YerikhoArfensiasEffendi/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/YerikhoArfensiasEffendi/YerikhoArfensiasEffendi/output/github-snake-dark.svg" width="100%" alt="Contribution Matrix" />
+  </picture>
 </div>
 
 ---
